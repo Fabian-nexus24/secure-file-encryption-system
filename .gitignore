@@ -5,3 +5,7 @@ secret_decrypted.txt
 
 # VS Code settings
 .vscode/
+# RSA generated files
+private_key.pem
+public_key.pem
+*.bin
