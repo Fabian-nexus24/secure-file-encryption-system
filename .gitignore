@@ -1,0 +1,7 @@
+# Generated encryption files
+aes_key.key
+*.enc
+secret_decrypted.txt
+
+# VS Code settings
+.vscode/
